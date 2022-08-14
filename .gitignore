@@ -1,0 +1,13 @@
+### Byte-compiled / optimized / DLL files
+__pycache__/
+**/__pycache__
+*.pyc
+*.py[cod]
+*$py.class
+
+
+###
+*.DS_Store
+*.nc
+*.ipynb_checkpoints
+*_paper1.nc
