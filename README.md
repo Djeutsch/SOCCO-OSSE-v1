@@ -6,9 +6,4 @@ A series of semi-idealized observing system simulation experiments (OSSEs) to te
 
 The OSSE dataset for assessing the sensitivity of 𝒑𝐂𝐎𝟐 reconstructions to sampling scales across a Southern Ocean sub-domain can be found on Zenodo
 
-![https://doi.org/10.5281/zenodo.5788735](https://zenodo.org/badge/DOI/10.5281/zenodo.5788736.svg)
-
-![<img scr="https://zenodo.org/badge/DOI/10.5281/zenodo.5788736.svg">](https://doi.org/10.5281/zenodo.5788735)
-
-
-
+<a href="https://doi.org/10.5281/zenodo.5788735"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5788736.svg" alt="DOI"></a>
